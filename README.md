@@ -1,5 +1,8 @@
 ## Hi there 👋
+[![github.com/davidalvarezp](https://readme-typing-svg.demolab.com/?font=Unbounded&weight=700&size=22&duration=5000&pause=1000&color=6600ff&background=1E42FF00&center=true&lines=github.com/davidalvarezp)](https://davidalvarezp.com)
 
+### How to reach me: [github.com/davidalvarezp](https://github.com/davidalvarezp)
+### I’m currently working on [github.com/davidalvarezp/devbydap](https://github.com/davidalvarezp/devbydap)
 <!--
 **devbydap/devbydap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
